@@ -1,3 +1,4 @@
+
 # Insurance Claim Analysis - SQL Capstone Project
 # Overview
 
@@ -54,6 +55,13 @@ Technologies Used
 Database: MSQL / PostgreSQL / SQL Server
 
 SQL Concepts: Joins, Aggregations, Window Functions, Indexing, Role Management
+
+## Results
+![image](https://github.com/user-attachments/assets/12755abb-9f14-45c0-84de-1d723080c519)
+
+
+![image](https://github.com/user-attachments/assets/582c9c3a-59c8-4dbd-8330-188db45b45eb)
+
 
 ## How to Use
 
