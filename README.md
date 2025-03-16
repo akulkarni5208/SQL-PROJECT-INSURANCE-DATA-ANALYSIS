@@ -57,14 +57,14 @@ SQL Concepts: Joins, Aggregations, Window Functions, Indexing, Role Management
 
 ## How to Use
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/akulkarni5208/insurance-claim-analysis.git
 
 
-License
+### License
 
 This project is open-source and available under the MIT License.
 
-Author
+### Author
 
 Abhishek Kulkarni
